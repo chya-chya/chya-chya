@@ -37,3 +37,6 @@ Nginx, K6
 
 - **[무진장을 맞아, 후기 응답속도를 개선해보자](https://medium.com/musinsa-tech/%EB%AC%B4%EC%A7%84%EC%9E%A5%EC%9D%84-%EB%A7%9E%EC%95%84-%ED%9B%84%EA%B8%B0-%EC%9D%91%EB%8B%B5%EC%86%8D%EB%8F%84%EB%A5%BC-%EA%B0%9C%EC%84%A0%ED%95%B4%EB%B3%B4%EC%9E%90-c92e0ae60f1e)**  
   → 무신사의 이벤트성 트래픽 증가에 대응하기 위해 병목을 사전에 분석하고 캐싱 전략 중심의 구조 개선으로 응답 속도·리소스·비용을 동시에 개선한 실제 성능 최적화 경험
+
+- **[Diffy란 무엇인가? "Diffy를 활용한 코드 없는 API 회귀 테스트](https://digitalbourgeois.tistory.com/164?utm_source=chatgpt.com#google_vignette)**  
+  → 무신사의 이벤트성 트래픽 증가에 대응하기 위해 병목을 사전에 분석하고 캐싱 전략 중심의 구조 개선으로 응답 속도·리소스·비용을 동시에 개선한 실제 성능 최적화 경험
