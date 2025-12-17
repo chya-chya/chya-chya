@@ -34,3 +34,6 @@ Nginx, K6
 
 - **[넷플릭스에 탄력성을 가져온 원숭이 부대 ‘카오스 몽키’ 알아보기](https://www.itworld.co.kr/article/3583088/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4%EC%97%90-%ED%83%84%EB%A0%A5%EC%84%B1%EC%9D%84-%EA%B0%80%EC%A0%B8%EC%98%A8-%EC%9B%90%EC%88%AD%EC%9D%B4-%EB%B6%80%EB%8C%80-%EC%B9%B4%EC%98%A4%EC%8A%A4.html)**  
   → 신뢰성에 관한 글을 보던중 우연히 접하게된 흥미로운 시스템
+
+- **[무진장을 맞아, 후기 응답속도를 개선해보자](https://medium.com/musinsa-tech/%EB%AC%B4%EC%A7%84%EC%9E%A5%EC%9D%84-%EB%A7%9E%EC%95%84-%ED%9B%84%EA%B8%B0-%EC%9D%91%EB%8B%B5%EC%86%8D%EB%8F%84%EB%A5%BC-%EA%B0%9C%EC%84%A0%ED%95%B4%EB%B3%B4%EC%9E%90-c92e0ae60f1e)**  
+  → 무신사의 이벤트성 트래픽 증가에 대응하기 위한 백엔드서버 개선의 여정
