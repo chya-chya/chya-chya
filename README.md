@@ -34,8 +34,7 @@ Nginx, K6
 
 
 - **[What Actually Makes You Senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/)**  
-  → 개발자 커리어의 여정에서 약간의 이정표가 되어줄 글
-    모호함을 없애고 단호한 액션을 만들수 있는 시니어 개발자가 되기를
+  → 개발자 커리어의 여정에서 약간의 이정표가 되어줄 글    (모호함을 없애고 단호한 액션을 만들수 있는 시니어 개발자가 되기를)
 
 - **[넷플릭스에 탄력성을 가져온 원숭이 부대 ‘카오스 몽키’ 알아보기](https://www.itworld.co.kr/article/3583088/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4%EC%97%90-%ED%83%84%EB%A0%A5%EC%84%B1%EC%9D%84-%EA%B0%80%EC%A0%B8%EC%98%A8-%EC%9B%90%EC%88%AD%EC%9D%B4-%EB%B6%80%EB%8C%80-%EC%B9%B4%EC%98%A4%EC%8A%A4.html)**  
   → 신뢰성에 관한 글을 보던중 우연히 접하게된 흥미로운 시스템 의도적인 장애 실험으로 무중단 시스템을 만든 넷플릭스의 카오스 몽키
