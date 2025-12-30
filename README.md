@@ -31,6 +31,8 @@ Nginx, K6
 - **Tools**: GitHub, Notion
 
 ### 📚 Reading & Thinking
+- **[성능 튜닝 전에 반드시 물어야 할 질문들(부하 매개 변수)](https://www.notion.so/2d97b119cb4b80c8b1daecbd4ce096)**  
+  → 성능과 확장성을 이야기할 때 ‘빠르다/느리다’가 아니라 요청률·데이터 크기·접근 패턴처럼 수치로 사고해야 한다는 기준을 다시 세워준 개념(막연한 확장성 논의에서 벗어나, 설계의 출발점을 명확히 하게 만든다)
 
 
 - **[What Actually Makes You Senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/)**  
