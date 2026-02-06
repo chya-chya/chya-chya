@@ -31,6 +31,9 @@ Nginx, K6
 - **Tools**: GitHub, Notion
 
 ### 📚 Reading & Thinking
+- **[The 80% Problem in Agentic Coding](https://addyo.substack.com/p/the-80-problem-in-agentic-coding)**  
+  → AI가 코딩 시대에 개발자가 직면한 ‘이해 부채(Comprehension Debt)’와 검증의 중요성을 분석한 글(코드를 직접 짜는 ‘구현자’에서 명확한 성공 기준을 정해 AI를 지휘하는 ‘오케스트레이터’로 개발자의 역할을 재정의해야 함을 일깨운다)
+  
 - **[성능 튜닝 전에 반드시 물어야 할 질문들(부하 매개 변수)](https://www.notion.so/2d97b119cb4b80c8b1daecbd4ce09662?source=copy_link)**  
   → 성능과 확장성을 이야기할 때 ‘빠르다/느리다’가 아니라 요청률·데이터 크기·접근 패턴처럼 수치로 사고해야 한다는 기준을 다시 세워준 개념(막연한 확장성 논의에서 벗어나, 설계의 출발점을 명확히 하게 만든다)
 
