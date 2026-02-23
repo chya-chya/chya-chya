@@ -1,4 +1,3 @@
-
 <!--
 **chya-chya/chya-chya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm sooyen</h1>
 <h3 align="center">A passionate backend developer from Korea</h3>
-<<h3 align="center">email: cktndus32@naver.com</h3>
+<h3 align="center">email: cktndus32@naver.com</h3>
 
 
 <!-- <h3 align="left">Connect with me:</h3> -->
@@ -32,7 +31,16 @@ Here are some ideas to get you started:
 Nginx, K6
 - **Tools**: GitHub, Notion
 
+
+### 🔥 Troubleshooting
+
+실제 서비스 개발 과정에서 마주했던 문제들과,
+원인 분석 → 설계 결정 → 개선 결과까지 기록한 트러블 슈팅 아카이브입니다.
+
+- **[트러블 슈팅 페이지](https://www.notion.so/2f67b119cb4b802e85d7dca5d56b5925)**  
+
 ### 📚 Reading & Thinking
+
 - **[The 80% Problem in Agentic Coding](https://addyo.substack.com/p/the-80-problem-in-agentic-coding)**  
   → AI가 코딩 시대에 개발자가 직면한 ‘이해 부채(Comprehension Debt)’와 검증의 중요성을 분석한 글(코드를 직접 짜는 ‘구현자’에서 명확한 성공 기준을 정해 AI를 지휘하는 ‘오케스트레이터’로 개발자의 역할을 재정의해야 함을 일깨운다)
   
